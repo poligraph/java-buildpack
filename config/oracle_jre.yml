@@ -21,7 +21,7 @@
 ---
 jre:
   version: 1.8.0_10+
-  repository_root: ""
+  repository_root: "https://s3-us-west-1.amazonaws.com/oracle-jdk-cf-buildpack"
 memory_calculator:
   version: 2.+
   repository_root: "{default.repository.root}/memory-calculator/{platform}/{architecture}"
